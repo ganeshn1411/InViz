@@ -1,3 +1,0 @@
-# Inviz
-
-Insightful visualizations, instantly.
