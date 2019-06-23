@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "InViz",
+  "author": "Tejas Bhalerao, Ganesh Prasad",
+  "description": "Insightful Visualizations, instantly.",
+  "version": "0.0.1",
+
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "InViz"
+  },
+  "icons": {
+    "16": "inviz_logo.png",
+    "48": "inviz_logo.png",
+    "128": "inviz_logo.png"
+  },
+  "permissions": [
+  ]
+}
